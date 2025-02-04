@@ -12,4 +12,3 @@ You can use the online chat [here](https://socket-chat-client.netlify.app/).
 **What the chat looks like**
 
 <img src="https://github.com/user-attachments/assets/4ea7346e-bac9-4898-b5d0-fe6d219f2568" width="600" height="350">
-
